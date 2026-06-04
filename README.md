@@ -95,9 +95,8 @@ Although the script is designed to be safe, map corruption can occur if your VMF
 
 ## Supported Editors
 
-- Hammer Editor
-- Hammer++
-- Most Source Engine VMF files
+- Hammer (++) Editor
+- Most Source Engine VMF files (SDK 2013)
 
 ## License
 
